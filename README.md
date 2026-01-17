@@ -1,20 +1,32 @@
 # listaMercado
 Lista de mercado em Java com Springboot
+
 Repositório da Lista Mercado jeito com Springboot
+
 Sistema Lista de Mercado
 Requisitos
 Ser capaz de gerenciar várias listas de mercado (e marcar seu status como concluída ou não)
+
 Ser capaz de cadastrar produtos e consultá-los
+
 Ser capaz de incluir produtos nas listas e especificar suas quantidades, bem como marcar se o item já foi comprado ou não
+
 Ser capaz de atribuir valores aos itens comprados para depois ter uma gestão dos custos da lista
+
 Ser capaz de adicionar quantidades (kg, unidades, litros, etc)
+
 Casos de Uso - Produto
+
 Cadastrar Produtos
+
 Informar o nome de um determinado produto e o sistema o armazena no banco
+
+
 
 Entrada esperada
 
 nome do produto
+
 Saída esperada
 
 id do produto
